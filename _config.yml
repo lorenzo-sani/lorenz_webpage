@@ -5,3 +5,6 @@ description: Se sei riesci a ciapare dei ratt probabilmente non dovresti essere 
 exclude:
   - README.md
   
+include:
+- Index.md
+ 
