@@ -1,10 +1,10 @@
-### Benvenuti Gatti di Marmo
+# Benvenuti Gatti di Marmo
 
 Questa guida vi insegnerà la nobile tecnica della **cattura dei topi**
 
 ## Passo numero 1
 
-# Procacciarsi del formaggio
+### Procacciarsi del formaggio
 
 È rinomato che i topi siano dei grandi amanti del formaggio (gruviera, fontina, stracchino ecc...), quindi vai al _supermercato_ e comprane un po´di tua scelta.
 
