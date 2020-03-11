@@ -9,9 +9,9 @@ Passaggi:
 1. Vai al **Comprabene** o ai **Brianzoli**
 1. Compra del formaggio
 ..1. Recati al settore formaggi
-..2. Scegli il formaggio di tua scelta
-..3. Paga con del danaro (oppure fuggi)
-4. Torna a casa
+..1. Scegli il formaggio di tua scelta
+..1. Paga con del danaro (oppure fuggi)
+1. Torna a casa
 
 La nostra guida continuerà nei prossimi episodi,
 
