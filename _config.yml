@@ -1,10 +1,4 @@
-theme: jekyll-theme-minimal
-title: Gatti di marmo
+theme: jekyll-theme-cayman
+title: Marble Cats
 description: Se riesci a ciapare dei ratt probabilmente non dovresti essere qui
 
-exclude:
- - README.md
-  
-include:
-- Index.md
- 
