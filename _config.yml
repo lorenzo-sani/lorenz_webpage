@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Gatti di marmo
-description: Se sei riesci a ciapare dei ratt probabilmente non dovresti essere qui
+description: Se riesci a ciapare dei ratt probabilmente non dovresti essere qui
 
 exclude:
  - README.md
